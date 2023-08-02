@@ -1,0 +1,9 @@
+tsc--init
+
+npm init -y
+
+mkdir src dist
+
+"outDir": "./dist"    it will compile in here 
+
+tsc -w  it will watch base on the tsconfig.json and then it will compile in the dist

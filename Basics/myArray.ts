@@ -4,7 +4,7 @@ const heroPower: Array<number> = []
 
 type User = {
     name: string;
-    isActive : boolean;
+    isActive : boolean; 
 }
 
 const allUsers : User[] = []
