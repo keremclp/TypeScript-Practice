@@ -29,7 +29,6 @@ interface Bootle{
 
 function getSearchProduct<T>(products: T[]): T // this T should one of the array
 {
-    //do some database operations
     const myIndex=0
     return products[myIndex]
 }

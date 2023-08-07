@@ -19,3 +19,4 @@ superHeros.push("superman")
 heroPower.push(100)
 
 allUsers.push({name: "kerem", isActive: true})
+

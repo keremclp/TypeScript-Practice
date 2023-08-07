@@ -4,4 +4,5 @@ let user = {
 }
 
 console.log("Hello World");
-console.log(user.email);
+// console.log(user.email);
+

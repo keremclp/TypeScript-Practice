@@ -39,7 +39,7 @@ heros.map((hero):string => {
 function consoleError(errmsg: string): void{
     console.error(errmsg);
 }
-//if you use void it will not return anything, if you try to return you will have an error!!
+
 function handleError(errmsg: string): never{
     throw new Error(errmsg)
 }

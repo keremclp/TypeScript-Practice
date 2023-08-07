@@ -1,11 +1,11 @@
 // class User {
 //     public email:string;
-//     private name:string;
+//     private first_name:string;
 //     readonly city: string="New York";
 
 //     constructor(email:string, name:string, ){
 //         this.email = email;
-//         this.name = name;
+//         this.first_name = name;
         
 //     }
 // }
